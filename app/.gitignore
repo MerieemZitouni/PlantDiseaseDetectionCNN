@@ -1,0 +1,5 @@
+# Ignore a specific folder
+plantvillage dataset/
+
+# Ignore a specific .h5 file
+plant_disease_prediction_model.h5
